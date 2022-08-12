@@ -1,0 +1,21 @@
+
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Assignment html o6C</title>
+    </head>
+    <body>
+        <img src="https://media.gettyimages.com/photos/cricket-batsman-hitting-ball-during-cricket-match-in-stadium-picture-id518022060?s=612x612" alt="Cricket image"> <br>
+        <a href="https://cricket.com">Click here to Cricket overall infromation</a> <br> 
+        <br>
+        <br>
+        <br>
+        <a href="https://rohitsharmacricbuzz.com">Rohit Sharma</a> <br> 
+        <a href="https://Viratkohlicricbuzz.com">Virat Kohli</a> <br>
+        <a href="https://KLrahulcricbuzz.com">KL Rahul</a> <br>
+        <a href="https://jaspeetbumrahcricbuzz.com">Jaspeet Bumrah</a> <br>
+    </body>
+    </html>

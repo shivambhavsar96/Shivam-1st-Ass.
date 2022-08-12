@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assigenment Html</title>
+</head>
+<body>
+    <a href="https://about.com">About</a> <br>
+    <a href="https://football.com">Football</a> <br> 
+    <a href="https://cricket.com">cricket</a> <br>
+    <a href="https://hockey.com">Hockey</a> <br>
+    <a href="https://aboutas.com">About us</a> <br>
+</body>
+</html>

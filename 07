@@ -1,0 +1,55 @@
+
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Assignment html 07</title>
+    </head>
+    <body>
+        <form action="form.php">
+            <h1>school Registration From</h1>
+            <input type="text" id="first Name" placeholder="First Name">
+            <input type="text" id="last name" placeholder="last name"> 
+            <br>
+            <br>
+            <label for="Date of birth">
+                <input type="date" id="date of birth" placeholder="Enter your DOB">
+            </label> 
+            <br>
+            <h5>Select Your Course</h5>
+            <form action="form.php">
+                <label for="sectionida"> 
+                    <input type="radio" value="section" name="section">Mathematics. <br>
+                </label>
+                <label for="sectionidb">
+                    <input type="radio" value="section" name="section">Social Science. <br>
+                </label>
+                <label for="sectionidc">
+                    <input type="radio" value="section" name="section">Enlish.<br>
+                </label>
+            <h4>Gender</h4>
+           <label for="gender">
+            <input type="checkbox" name="Gender" id="male">Male
+           </label>
+           <label for="gender">
+            <input type="checkbox" name="Gender" id="female">Female
+           </label>
+           <br>
+           <h5>languages Spoken</h5>
+          <input type="text">
+          <h5>Parents Information</h5>
+          <label for="Parents information">
+            <input type="text" id="Father name" placeholder="Enter your father name">
+            <input type="text" id="mother name" placeholder="Enter your mother name">
+            <br>
+            <br>
+
+            <textarea name="hobbys" id="hobby" cols="30" rows="10" placeholder="Enter Your hobby"></textarea>
+          </label>
+          <br>
+          <button type="submit">Submit</button>
+        </form>
+          </body>
+    </html>
